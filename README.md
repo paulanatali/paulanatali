@@ -1,7 +1,7 @@
 <!-- ⚠️ IMPORTANTE: faça upload do arquivo mickey.gif na RAIZ deste repositório, senão o gatinho não aparece! -->
 
 <!-- 💜 Capa -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:D16BFF&height=210&section=header&text=Paula%20Natali&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Front-End%20Developer%20%E2%80%A2%20Cat%20Mom%20%E2%80%A2%20ARMY&descSize=18&descAlignY=52" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:D16BFF&height=210&section=header&animation=fadeIn" alt="banner"/>
 
 <!-- 💬 Texto digitando -->
 <div align="center">
@@ -58,15 +58,15 @@
 
 **Tools**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows,linux" alt="Git, GitHub, VS Code, Visual Studio, Windows, Linux"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" alt="Git, GitHub, VS Code, Windows, Linux"/></a>
 
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulanatali&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=D16BFF&text_color=C9D1D9&bg_color=0D1117" alt="Paula's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulanatali&layout=compact&hide_border=true&title_color=9400D3&text_color=C9D1D9&bg_color=0D1117" alt="most used languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulanatali&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=D16BFF&text_color=C9D1D9&bg_color=0D1117" alt="Paula's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulanatali&layout=compact&hide_border=true&title_color=9400D3&text_color=C9D1D9&bg_color=0D1117" alt="most used languages"/>
 </div>
 
 <br/>
