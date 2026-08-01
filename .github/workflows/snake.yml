@@ -1,0 +1,43 @@
+# ═══════════════════════════════════════════════════════════════════
+# 🐍 COBRINHA ROXA — gera a animação da cobra comendo suas contribuições
+#
+# ONDE SALVAR: no repositório paulanatali/paulanatali, crie o arquivo:
+#   .github/workflows/snake.yml
+# (exatamente nesse caminho, com as pastas .github e workflows)
+#
+# Depois vá na aba "Actions" do repositório → "Generate snake animation"
+# → botão "Run workflow" para rodar a primeira vez. Ela se atualiza
+# sozinha a cada 12 horas depois disso. 💜
+# ═══════════════════════════════════════════════════════════════════
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # roda automaticamente a cada 12h
+  workflow_dispatch:          # permite rodar manualmente pela aba Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate the snake files
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#9400D3&color_dots=#EDE4F7,#D3A6F5,#B15EED,#8E24AA,#4A148C
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#D16BFF&color_dots=#161B22,#3B1E54,#6A1B9A,#8E24AA,#C77DFF
+
+      - name: Push snake to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
