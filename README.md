@@ -7,7 +7,7 @@
 <div align="center">
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=9400D3&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Paula+Natali!;Front-End+Developer;18+years+old+%E2%80%A2+Boa+Viagem%2C+CE;Cat+mom+of+Mickey;BTS+ARMY+%E2%80%94+Borahae!;Welcome+to+my+profile!+%3A%29" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=9400D3&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Paula+Natali!;Front-End+Developer;18+years+old+%E2%80%A2+Boa+Viagem%2C+CE;Welcome+to+my+profile!+%3A%29" alt="typing intro"/>
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=paulanatali&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="profile views"/>
@@ -22,9 +22,6 @@
 - 💻 **Front-End Developer** — in love with clean, beautiful interfaces
 - 🎂 18 years old, from **Boa Viagem – CE, Brazil**
 - 📚 Deep-diving into **HTML, CSS & JavaScript**
-- 🐱 Cat mom of **Mickey** — that's him on the right, pixel by pixel
-- 💜 **BTS ARMY** — powered by *Borahae* energy
-- 🎨 Favorite color? You already know: **purple**
 - 📫 **paulanatali025@gmail.com**
 
 <br clear="both"/>
@@ -78,16 +75,6 @@
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paulanatali&bg_color=0D1117&color=9400D3&line=D16BFF&point=FFFFFF&area=true&area_color=4B0082&hide_border=true" alt="contribution activity graph"/>
-
-## 💜 Borahae — 보라해
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ARMY-Borahae!-9400D3?style=for-the-badge&labelColor=4B0082" alt="ARMY badge"/>
-
-*"Borahae" means "I purple you": purple is the last color of the rainbow, a promise to trust and love until the end. That's the energy behind everything I build.* 💜
-
-</div>
 
 ## 🌐 Let's connect
 
