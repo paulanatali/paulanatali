@@ -103,7 +103,7 @@ FIM DO BLOCO DA COBRINHA -->
 
 <div align="center">
 
-**Made with 💜 by Paula Natali** — supervised by Mickey 🐾
+**Made by Paula Natali** — supervised by Mickey 🐾
 
 </div>
 
